@@ -2,7 +2,7 @@
 
 echo "
 
-Thanks for Deploying Emily`s Lecch Bot
+Thanks for Deploying Emilys Leech Bot
 
 Hope you like it
 
